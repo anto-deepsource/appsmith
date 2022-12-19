@@ -7,7 +7,7 @@ import {
   apiSuccessResponseInterceptor,
 } from "api/ApiUtils";
 
-//TODO(abhinav): Refactor this to make more composable.
+// TODO(abhinav): Refactor this to make more composable.
 export const apiRequestConfig = {
   baseURL: "/api/",
   timeout: REQUEST_TIMEOUT_MS,
