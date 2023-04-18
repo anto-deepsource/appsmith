@@ -7,6 +7,7 @@ import {
 import { Skin, Theme } from "constants/DefaultTheme";
 import { Colors } from "constants/Colors";
 
+// dummy
 const getBorderStyle = (
   props: { theme: Theme } & {
     editorTheme?: EditorTheme;
