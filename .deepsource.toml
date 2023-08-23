@@ -19,6 +19,7 @@ enabled = true
     "browser",
     "cypress"
   ]
+  cyclomatic_complexity_threshold = "critical"
   dialect = "typescript"
   dependency_file_paths = [
   '/app/client/'
