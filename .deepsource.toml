@@ -10,14 +10,3 @@ exclude_patterns = [
 
 [[analyzers]]
 name = "secrets"
-
-[[analyzers]]
-name = "javascript"
-
-  [analyzers.meta]
-  plugins = ["react"]
-  environment = [
-    "nodejs",
-    "browser",
-    "cypress"
-  ]
