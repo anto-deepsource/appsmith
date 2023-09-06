@@ -69,6 +69,7 @@ export class DataManager {
       OAuth_RedirectUrl: "http://localhost/api/v1/datasources/authorize",
 
       AirtableBase: "appubHrVbovcudwN6",
+      AirtableBase1: "appubHrVbovcudwN6",
       AirtableTable: "tblsFCQSskVFf7xNd",
 
       mockApiUrl: "http://host.docker.internal:5001/v1/mock-api?records=10",
